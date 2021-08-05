@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MusicmatchRam/static/css/main.afd7172b.chunk.css",
+    "main.js": "/MusicmatchRam/static/js/main.3e06fc2a.chunk.js",
+    "main.js.map": "/MusicmatchRam/static/js/main.3e06fc2a.chunk.js.map",
+    "runtime-main.js": "/MusicmatchRam/static/js/runtime-main.8df3634e.js",
+    "runtime-main.js.map": "/MusicmatchRam/static/js/runtime-main.8df3634e.js.map",
+    "static/js/2.d459f38a.chunk.js": "/MusicmatchRam/static/js/2.d459f38a.chunk.js",
+    "static/js/2.d459f38a.chunk.js.map": "/MusicmatchRam/static/js/2.d459f38a.chunk.js.map",
+    "static/js/3.8e87ee2b.chunk.js": "/MusicmatchRam/static/js/3.8e87ee2b.chunk.js",
+    "static/js/3.8e87ee2b.chunk.js.map": "/MusicmatchRam/static/js/3.8e87ee2b.chunk.js.map",
+    "index.html": "/MusicmatchRam/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/MusicmatchRam/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.d459f38a.chunk.js.LICENSE.txt": "/MusicmatchRam/static/js/2.d459f38a.chunk.js.LICENSE.txt",
+    "static/media/Spinner.0d8837f6.gif": "/MusicmatchRam/static/media/Spinner.0d8837f6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8df3634e.js",
+    "static/js/2.d459f38a.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.3e06fc2a.chunk.js"
+  ]
+}
